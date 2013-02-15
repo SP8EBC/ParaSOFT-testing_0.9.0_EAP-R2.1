@@ -1,0 +1,21 @@
+﻿SZCZEGÓŁOWE WARUNKI LICENCYJNE UŻYTKOWANIA OPROGRAMOWANIA ParaSOFT
+
+Paragraf 1. Definicje używanych pojęć:
+AUTOR -- Mateusz Lubecki oraz inne osoby/podmioty gospodarcze wyznaczone przez niego.
+OPROGRAMOWANIE -- Oprogramowanie ParaSOFT w wersji do której zostały dołączone niniejsze warunki licencyjne
+URZĄDZENIE -- Opracowania przyrządu awioniki paralotniowej (wariometru) z serii EAP, bądź innych użądzeń zaprojektowanych przez Mateusza Lubeckiego.
+UŻYTEK NIEKOMERCYJNY -- Używanie oprogramowania do celów prywatnych, nie mających na celu uzyskanie z tego tytułu korzyści majątkowej. Za cel prywatny rozumie się również działalność naukową oraz badawczą o ile nie jest bezpośrednio związana z wykonywanym stosunkiem pracy i/lub pracami badawczo-rozwojowymi finansowanymi przez podmioty trzecie. Dodatkowo użytkiem niekomercyjnym jest jakiekolwiek użycie w celach dydaktycznych i edukacyjnych.
+UŻYTEK KOMERCYJNY -- Używanie oprogramowania mające na celu wygenerowanie korzyści materialnych. W szczególe jest to użycie kodu bądź pliku binarnego w projekcie komercyjnym mającym za cel wytworzenie oraz wprowadzenie do obrotu urządzenia bądź oprogramowania odpłatnego, jak również projektu mającego formę odpłatnej usługi wobec podmiotów trzecich.
+KORZYŚĆ MATERIALNA -- Otrzymane środki pieniężne, rzeczowe bądź mające charakter wykonanej usługi. 
+
+Paragraf 2. Warunki użytkowania oprogramowania
+1.. Zezwala się na nieodpłatny, nieograniczony użytek niekomercyjny oprogramowania zarówno w postaci binarnej jak i jako pliki źródłowe kompilatora. Zezwala się na swobodne upublicznianie, rozpowszechnianie, modyfikację, wykorzystywanie w całości bądź we fragmentach oprogramowania do własnych opracowań sprzętowych i/lub programowych pod warunkiem zachowanie zdefiniowanego powyżej użytku niekomercyjnego. Wyraża się zgodę na modyfikację oprogramowania pod kątem używania go w przyrządach z serii EAP bądź innych urządzeniach w których było ono pierwotnie zastosowane. 
+2.. Kod źródłowy zastosowany według zasad opisanych w paragrafie 2 punkt 1 podlega niezmiennym warunkom licencyjnym. Jedyną osobą mającą prawo do zmiany postanowień licencyjnych jest autor.
+3.. Nieodpłatne używanie kodu źródłowego w innych projektach musi wiązać się z zaznaczeniem tego faktu w dokumentacji projektu, bądź jeżeli taka nie istnieje w plikach źródłowych.
+4.. Oprogramowanie może być używane bez dodatkowych opłat jako oprogramowanie sterujące w przyrządach awioniki paralotniowej z serii EAP lub innej opracowanej przez autora, bez względu na charakter w jakim urządzenie jest używane.
+5.. Oprogramowanie może być używane nieodpłatnie, również w przypadku wykorzystania części bądź całości jego kodów źródłowych w udostępnianych publicznie projektach o charakterze niekomercyjnym.
+
+Paragraf 3. Użytek komercyjny
+1.. Autor kategorycznie i surowo zabrania używania bez jego zgody oprogramowania do celów komercyjnych i innych nie mieszczących się w definicji użytku niekomercyjnego.
+2.. Użytkek komercyjny jest możliwy po uzyskaniu zgody autora oraz spełnieniu narzuconych przez niego warunków finansowych oraz formalnych
+3.. Nie rozróżnia się podmiotów wykorzystujących oprogramowanie do celów komercyjnych. W taki sam sposób będą traktowani instruktorzy paralotniowi, firmy związane z działalnością paralotniową jak i inne podmioty gospodarcze niezwiązane z tym sportem
